@@ -1,6 +1,6 @@
 let listaDeNumerosSorteados = [];
 let numMin = 1;
-let numMax = 100;
+let numMax = 50;
 let tentativas = 1;
 let numeroSecreto;
 mensagemInicial();
